@@ -1667,11 +1667,12 @@ STYLE SWITHER - Demo purpose only
      z-index: 1;
      list-style: none;
      padding: 0px;
-     margin: 20px 0px 0px 2px;
+     margin: 2px 0px 0px 8px;
  }
 
  .dropdown-content a {
      float: none;
+
      padding: 5px 3px;
      text-decoration: none;
      display: block;
@@ -1679,7 +1680,7 @@ STYLE SWITHER - Demo purpose only
  }
 
  ul.dropdown-content li a {
-     margin: 0px 0px 30px 12px !important;
+     margin: 0px 20px 2px 0px !important;
  }
 
  .dropdown-content a:hover {
@@ -1697,7 +1698,7 @@ STYLE SWITHER - Demo purpose only
 
  .dropdown:hover .dropdown-content {
      display: block;
-     background: rgb(178, 176, 176);
+     background: rgb(193, 178, 178);
  }
 
  .main-display {
